@@ -1,7 +1,7 @@
 📈 Finance Prediction App
 This is a Finance Prediction App built with Streamlit that allows users to forecast financial trends, analyze stock prices, and gain insights using machine learning models.
 
-🚀 Live Demo: Finance Prediction App
+🚀 Live Demo: https://finance-prediction-app-using-app-ashutosh-pandey.streamlit.app/
 
 🚀 Features
 📊 Stock Price Prediction: Predict future stock prices using historical data.
